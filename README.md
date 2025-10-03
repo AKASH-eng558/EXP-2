@@ -57,6 +57,7 @@ Procedure for Load test:
 
 
 Open circuit characteristics
+
 <img width="600" height="655" alt="Screenshot 2025-10-03 212854" src="https://github.com/user-attachments/assets/bfb6efb4-60ca-4330-9018-0633c8df0fc3" />
 
   
